@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80575A801DE5F8D900B31FF4 /* FlickrPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80575A7F1DE5F8D900B31FF4 /* FlickrPhotosViewController.swift */; };
 		808DB0331DD61F6800FB48D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808DB0321DD61F6800FB48D1 /* AppDelegate.swift */; };
 		808DB0351DD61F6800FB48D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808DB0341DD61F6800FB48D1 /* ViewController.swift */; };
 		808DB0381DD61F6800FB48D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 808DB0361DD61F6800FB48D1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		80575A7F1DE5F8D900B31FF4 /* FlickrPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrPhotosViewController.swift; sourceTree = "<group>"; };
 		808DB02F1DD61F6800FB48D1 /* FlickrApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		808DB0321DD61F6800FB48D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		808DB0341DD61F6800FB48D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				808DB0321DD61F6800FB48D1 /* AppDelegate.swift */,
 				808DB0341DD61F6800FB48D1 /* ViewController.swift */,
 				808DB0361DD61F6800FB48D1 /* Main.storyboard */,
+				80575A7F1DE5F8D900B31FF4 /* FlickrPhotosViewController.swift */,
 				808DB0391DD61F6800FB48D1 /* Assets.xcassets */,
 				808DB03B1DD61F6800FB48D1 /* LaunchScreen.storyboard */,
 				808DB03E1DD61F6800FB48D1 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80575A801DE5F8D900B31FF4 /* FlickrPhotosViewController.swift in Sources */,
 				808DB0351DD61F6800FB48D1 /* ViewController.swift in Sources */,
 				808DB0331DD61F6800FB48D1 /* AppDelegate.swift in Sources */,
 			);
